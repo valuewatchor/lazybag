@@ -1,0 +1,9 @@
+{
+    "code": "test",
+    "desp": "測試",
+    "pageUrl": "/chip/netbuy/foreigner/20240909/",
+    "thumb": "/report/thumbnail/test.jpg",
+    "rpt2": "/report/xlsx/test2.xlsx",
+    "rpt": "https://www.qiyogame.com/rpt/xlsx.php?test1/tt.xlsx",
+    "rptFilename": "測試中文.xlsx"
+}
